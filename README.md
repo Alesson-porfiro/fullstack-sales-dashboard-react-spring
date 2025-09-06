@@ -113,7 +113,7 @@ Follow these steps to run the application locally.
 
 ### **1. Back-end setup**
 ```bash
-# Clone o repositório do back-end
+# Clone the backend repository
 git clone https://github.com/Alesson-porfiro/fullstack-sales-dashboard-react-spring
 cd src/main/java/springSecurityAlesson/mySpringSec
 
@@ -126,7 +126,7 @@ cd src/main/java/springSecurityAlesson/mySpringSec
 # Run the application
 ./mvnw spring-boot:run
 ```
-A API estará rodando em `http://localhost:8080`.
+The application will be available at `http://localhost:8080`.
 
 ### **2. Front-end setup**
 ```bash
