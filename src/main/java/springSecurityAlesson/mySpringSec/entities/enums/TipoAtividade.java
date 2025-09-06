@@ -1,0 +1,17 @@
+package springSecurityAlesson.mySpringSec.entities.enums;
+
+public enum TipoAtividade {
+    CLIENTE_CRIADO,
+    REPRESENTANTE_CRIADO,
+    PRODUTO_CRIADO,
+    PRODUTO_ATUALIZADO,
+    PRODUTO_EXCLUIDO,
+    VENDA_CRIADA,
+    VENDA_STATUS_ATUALIZADO,
+    VENDA_EXCLUIDA,
+    USUARIO_ATUALIZADO,
+    USUARIO_CARGO_ALTERADO,
+    USUARIO_EXCLUIDO,
+    LOGIN_FALHOU,
+    LOG_LIMPO
+}
